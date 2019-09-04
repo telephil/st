@@ -131,8 +131,5 @@ extern char *termname;
 extern unsigned int tabspaces;
 extern unsigned int defaultfg;
 extern unsigned int defaultbg;
-<<<<<<< HEAD
 extern MouseKey mkeys[];
-=======
 extern float alpha;
->>>>>>> alpha
